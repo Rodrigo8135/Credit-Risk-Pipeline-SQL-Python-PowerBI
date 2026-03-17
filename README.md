@@ -136,7 +136,7 @@ pip install pandas matplotlib seaborn scikit-learn pyodbc
 
 ## 👤 Autor
 
-**[Tu Nombre]**
+**[Rodrigo Quiroz Iparraguirre]**
 [LinkedIn](https://www.linkedin.com/in/rodrigo-ismael-quiroz-iparraguirre-129344345/) · 
 
 ---
