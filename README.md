@@ -78,7 +78,8 @@ Se construyeron dos vistas principales:
 ---
 
 ## Dashboard Power BI
-
+![Dashboard Principal](screenshots/dashboard_principal.png)
+![Exposición Financiera](screenshots/exposicion_financiera.png)
 El dashboard incluye:
 - **KPIs ejecutivos:** Total clientes (690), Capital expuesto ($2.38M), Ticket promedio ($3.45K)
 - **Distribución de riesgo:** 64.78% Bajo · 21.45% Medio · 13.77% Alto
